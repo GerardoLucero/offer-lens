@@ -1,0 +1,20 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model OfferAnalysis {
+  id          String   @id
+  offerText   String
+  context     String   @default("")
+  role        String   @default("")
+  company     String   @default("")
+  score       Int      @default(0)
+  result      String   @default("{}")
+  recommendation String @default("")
+  createdAt   DateTime @default(now())
+}
