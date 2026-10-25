@@ -75,7 +75,7 @@ Return JSON only:
   "verdict": "2-3 sentence honest assessment",
   "recommendation": "accept | negotiate | decline | investigate"
 }`,
-    maxOutputTokens: 1500,
+    maxTokens: 1500,
   })
 
   try {
