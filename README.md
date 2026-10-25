@@ -2,9 +2,8 @@
 
 Read the fine print before you sign.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
-[![GitHub Stars](https://img.shields.io/github/stars/GerardoLucero/offer-lens?style=social)](https://github.com/GerardoLucero/offer-lens)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/GerardoLucero/offer-lens/actions/workflows/ci.yml/badge.svg)](https://github.com/GerardoLucero/offer-lens/actions/workflows/ci.yml)
 
 Offer Lens analyzes job offers and employment contracts with the eye of a senior employment lawyer. Paste the offer text and get a structured report in seconds: red flags with their severity, specific clauses to negotiate, a market salary assessment, and the exact questions to ask the employer before you commit.
 
@@ -171,6 +170,13 @@ Railway, Render, Fly.io, or any Node.js host. Requires `ANTHROPIC_API_KEY` and a
 
 ---
 
+## Support
+
+Open source, maintained in my spare time. If it was useful and you want to say thanks:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
+
 ## License
 
-MIT
+MIT, see [LICENSE](LICENSE).
